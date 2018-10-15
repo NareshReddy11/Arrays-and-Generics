@@ -1,0 +1,7 @@
+F:\c#.net\Arrays2\Arrays2\obj\Debug\Arrays2.csprojAssemblyReference.cache
+F:\c#.net\Arrays2\Arrays2\obj\Debug\Arrays2.csproj.CoreCompileInputs.cache
+F:\c#.net\Arrays2\Arrays2\bin\Debug\Arrays2.exe.config
+F:\c#.net\Arrays2\Arrays2\bin\Debug\Arrays2.exe
+F:\c#.net\Arrays2\Arrays2\bin\Debug\Arrays2.pdb
+F:\c#.net\Arrays2\Arrays2\obj\Debug\Arrays2.exe
+F:\c#.net\Arrays2\Arrays2\obj\Debug\Arrays2.pdb
